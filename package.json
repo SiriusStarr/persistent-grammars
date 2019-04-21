@@ -1,12 +1,12 @@
 {
   "name": "persistent-grammars",
   "main": "./lib/persistent-grammars",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An Atom package for remembering custom grammars.",
   "activationEvents": [],
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/SiriusStarr/persistent-grammars.git"
+    "type": "git",
+    "url": "https://github.com/SiriusStarr/persistent-grammars.git"
   },
   "bugs": {
     "url": "https://github.com/SiriusStarr/persistent-grammars/issues"
