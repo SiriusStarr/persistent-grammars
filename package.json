@@ -1,0 +1,34 @@
+{
+  "name": "persistent-grammars",
+  "main": "./lib/persistent-grammars",
+  "version": "0.0.0",
+  "description": "An Atom package for remembering custom grammars.",
+  "activationEvents": [],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/SiriusStarr/persistent-grammars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SiriusStarr/persistent-grammars/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/SiriusStarr/persistent-grammars/raw/master/LICENSE.md"
+    }
+  ],
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "keywords": [
+    "grammar",
+    "grammars",
+    "remember",
+    "persistent",
+    "custom"
+  ],
+  "dependencies": {
+    "fs-plus": ">=3.0.0",
+    "xregexp": "^2.0.0"
+  }
+}
